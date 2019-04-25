@@ -1,5 +1,5 @@
 # Automatic Number Plate Recognition System
-Please adhere to your organization's rules for using this code. For [Concordia University](http://www.concordia.ca) ,these rules can be found [here](http://www.concordia.ca/students/academic-integrity/offences.html).
+Please adhere to your organization's rules for using this code. For [Concordia University](http://www.concordia.ca), these rules can be found [here](http://www.concordia.ca/students/academic-integrity/offences.html).
 
 Uses Opencv to detect the number plate in a static image of vechile.<br/>
 Test Data has been scrapped from the following link: http://www.numberplates.com/pr-number-plate-gallery.asp?page=1
